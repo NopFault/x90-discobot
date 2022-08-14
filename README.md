@@ -9,9 +9,8 @@ and at 2022-08-14 20:00 you will get personal message from bot.
 
 For ex.:
 
-<img width="640" alt="image" src="https://user-images.githubusercontent.com/90475186/184548502-504f5892-2d5a-4747-96c9-b63458a471f8.png">
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/90475186/184553136-599d7f76-0727-4920-a535-63b2a08951b6.png">
 
 and get the answer:
 
-<img width="905" alt="image" src="https://user-images.githubusercontent.com/90475186/184548673-afc3690e-af02-45b4-a359-4a33486888fa.png">
-
+<img width="967" alt="image" src="https://user-images.githubusercontent.com/90475186/184553185-45c896ff-2fb3-4a79-81d7-25b12250e6f4.png">
