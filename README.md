@@ -1,5 +1,5 @@
 # x90-discobot
-Second app in golang. Discord bot, which helps to create reminders for users, using sqlite database.
+Second app in golang. Discord bot, which helps to create reminders for users, using sqlite database. This code probably has many bugs so use it on your own risk. Of course i will be very happy if you notice me if you find a bug, by creating an issue. :) 
 
 In channel where bot placed just write:
 
@@ -14,3 +14,7 @@ For ex.:
 and get the answer:
 
 <img width="967" alt="image" src="https://user-images.githubusercontent.com/90475186/184553185-45c896ff-2fb3-4a79-81d7-25b12250e6f4.png">
+
+### Timezones
+
+Dont forget to set right timezone :) 
