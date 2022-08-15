@@ -1,7 +1,7 @@
 # x90-discobot
 Second app in golang. Discord bot, which helps to create reminders for users, using sqlite database. This code probably has many bugs so use it on your own risk. Of course i will be very happy if you notice me if you find a bug, by creating an issue. :) 
 
-just write a message to bot or in channel where the bot is placed:
+just write a message to bot or in channel where bot is placed:
 
 `remind 2022-08-14 20:00 Remind me something`
 
