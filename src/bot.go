@@ -92,6 +92,7 @@ func MessageHandler(session *discordgo.Session, message *discordgo.MessageCreate
 		}
 
 	} else if strings.HasPrefix(message.Content, "sukashenka") {
+		sukashenkaHelp(session, message)
 		getSukaData(session, message)
 	}
 }

@@ -21,6 +21,10 @@ func RemindUser(session *discordgo.Session, remind Remind) {
 	session.ChannelMessageSend(message.ID, "Hello, i want to remind you: "+remind.message)
 }
 
+func sukashenkaHelp(session *discordgo.Session, message *discordgo.MessageCreate) {
+	session.ChannelMessageSend(message.ChannelID, "<300 nSv/h - normalus gamtinis jonizuojančiosios spinduliuotės lygis Lietuvoje")
+}
+
 func sukashenka(session *discordgo.Session, message *discordgo.MessageCreate, str string) {
-	session.ChannelMessageSend(message.ChannelID, "@"+message.Author.Username+" "+str)
+	session.ChannelMessageSend(message.ChannelID, str)
 }
