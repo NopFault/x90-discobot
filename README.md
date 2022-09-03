@@ -4,6 +4,8 @@
 
 Added sukashenka (it's like Lukashenka but you know...) methods to check radiation level around Astrav.
 
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/90475186/188288359-96ce8e2d-0862-450f-a51a-8407a7d41137.png">
+
 
 ---
 
