@@ -20,3 +20,7 @@ func RemindUser(session *discordgo.Session, remind Remind) {
 	message, _ := session.UserChannelCreate(remind.recipient)
 	session.ChannelMessageSend(message.ID, "Hello, i want to remind you: "+remind.message)
 }
+
+func sukashenka(session *discordgo.Session, message *discordgo.MessageCreate, str string) {
+	session.ChannelMessageSend(message.ChannelID, "@"+message.Author.Username+" "+str)
+}
